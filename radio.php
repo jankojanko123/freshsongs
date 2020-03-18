@@ -11,7 +11,7 @@
 
 <h1>Alternative Radio</h1>
 <div class="hyperlinks">
-    <a href="index.php">FRONT PAGE</a>
+    <a href="index.phtml">FRONT PAGE</a>
     <a href="songs.php">NEW FRESH SONGS</a>
     <a href="albums.php">NEW FRESH ALBUMS</a>
     <a href="bestAlbums.php">BEST ALBUMS</a>
